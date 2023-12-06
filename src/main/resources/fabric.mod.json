@@ -1,0 +1,24 @@
+{
+	"schemaVersion": 1,
+	"id": "dragnun-uh",
+	"version": "${version}",
+	"name": "Dragnun-uh",
+	"description": "",
+	"authors": [
+		"KikuGie"
+	],
+	"contact": {
+	},
+	"license": "MIT",
+	"icon": "assets/dragnun-uh/icon.png",
+	"environment": "*",
+	"entrypoints": {
+	},
+	"mixins": [
+		"dragnun-uh.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.0",
+		"minecraft": ">=1.17"
+	}
+}

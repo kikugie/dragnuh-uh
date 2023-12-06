@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "dev.kikugie.dragun.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"EnderDragonSpawnStateMixin",
+		"EndSpikeFeatureMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
